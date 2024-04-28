@@ -13,3 +13,5 @@ Run below command
 - `terraform init`
 - `terraform plan` to check everything is working as expected or not
 - `terraform apply`
+Note: Make sure to delete all AWS resources once satisfied - `terraform destroy`
+
